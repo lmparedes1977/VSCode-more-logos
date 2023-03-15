@@ -1,6 +1,6 @@
 # VSCode-more-logos
 
-<img hrer="https://github.com/lmparedes1977/VSCode-more-logos/blob/main/logosVSCode.png"/>
+<img href="https://github.com/lmparedes1977/VSCode-more-logos/blob/main/logosVSCode.png"/>
 
 Repositório com cores e temas alternativos para o logo do VSCode.
 Minha motivação foi que, por ter mais de uma VSCode portable em uso em função de trabalhar em diferentes linguagens, resolvi brincar com as cores para melhor diferenciá-los.
